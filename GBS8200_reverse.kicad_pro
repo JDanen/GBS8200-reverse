@@ -232,7 +232,7 @@
       "no_connect_dangling": "warning",
       "pin_not_connected": "error",
       "pin_not_driven": "error",
-      "pin_to_pin": "warning",
+      "pin_to_pin": "error",
       "power_pin_not_driven": "error",
       "similar_labels": "warning",
       "simulation_model_issue": "error",
@@ -326,6 +326,10 @@
     [
       "31cd24e3-bef7-4cee-9d94-c160ab725e6d",
       ""
+    ],
+    [
+      "fe23cd81-865f-4e0e-bd34-09164b0a0b42",
+      "Power section"
     ]
   ],
   "text_variables": {}

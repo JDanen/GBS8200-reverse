@@ -1,6 +1,4 @@
 (sym_lib_table
   (version 7)
   (lib (name "GBS8200")(type "KiCad")(uri "${KIPRJMOD}/GBS8200.kicad_sym")(options "")(descr ""))
-  (lib (name "MTV230M")(type "KiCad")(uri "${KIPRJMOD}/MTV230M.kicad_sym")(options "")(descr ""))
-  (lib (name "trueview5725")(type "Legacy")(uri "${KIPRJMOD}/trueview5725.lib")(options "")(descr ""))
 )
